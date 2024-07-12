@@ -1,4 +1,5 @@
 print("EJ pangit")
+print("OHAHA")
 
 print("hello world")
 

@@ -8,3 +8,6 @@ def dashboard():
     
 def logoutdashboard():
     print("dashboard logout")
+    
+def test1():
+    print("test1")
